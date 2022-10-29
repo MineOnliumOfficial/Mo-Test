@@ -19,7 +19,7 @@ services:
       - --host-allowlist=*
       - --p2p-port=60606
       - --Xrpc-ipc-enabled
-      - --bootnodes=enode://3e88f9cf6b254e5b480c6dfcfcdf4d8b6d46a7ef3f21b0cc7654538d948483e4857a50201cd1f8a4a6164318f9fee9fad2b2420d4f24f29f124c4b3b48906c2a@34.87.231.138:30606
+     # - --bootnodes=enode://3e88f9cf6b254e5b480c6dfcfcdf4d8b6d46a7ef3f21b0cc7654538d948483e4857a50201cd1f8a4a6164318f9fee9fad2b2420d4f24f29f124c4b3b48906c2a@34.87.231.138:30606
       - --miner-stratum-enabled
       - --miner-stratum-host=0.0.0.0
       - --miner-stratum-port=50001
