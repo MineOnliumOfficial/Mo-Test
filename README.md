@@ -1,6 +1,6 @@
 # MO STACK
 
-Deploy the MineOnlium stack in two commands :)  
+Deploy the MineOnlium testnet in two commands :)  
 
 # Get started
 
