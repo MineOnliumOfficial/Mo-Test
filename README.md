@@ -4,12 +4,18 @@ Deploy the MineOnlium testnet.
 
 ## Local Network
 
-* `git clone https://github.com/JeffNeff/MO-Stack.git && cd MO-Stack/`
-* replace my address with yours in the `.env` file.
+* `git clone https://github.com/MineOnliumOfficial/Mo-Test.git && cd Mo-Test/`
+* replace my address with yours in the `.env` file and in the `Mo-Test/genesis/genesis.json` file.
 * `docker compose up` 
+* Create a new Metamask Network:
+  Name: Mo-Test
+  RPC URL: http://localhost:8545/
+  Chain ID: 12345
+  Symbol: MO
+  Block Explorer: http://localhost:4000
 * ...profit?
 
-## TestNet Network
+## Connecting to Public Testnet
 * Coming Soon!
 
 # Services Rendered:
