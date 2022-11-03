@@ -8,11 +8,11 @@ Deploy the MineOnlium testnet.
 * replace my address with yours in the `.env` file and in the `Mo-Test/genesis/genesis.json` file.
 * `docker compose up` 
 * Create a new Metamask Network:
-  Name: Mo-Test
-  RPC URL: http://localhost:6666/
-  Chain ID: 12345
-  Symbol: MO
-  Block Explorer: http://localhost:4001
+   * Name: Mo-Test
+   * RPC URL: http://localhost:6666/
+   * Chain ID: 12345
+   * Symbol: MO
+   * Block Explorer: http://localhost:4001
 * ...profit?
 
 ## Connecting to Public Testnet
