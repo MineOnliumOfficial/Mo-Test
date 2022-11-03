@@ -12,7 +12,7 @@ Deploy the MineOnlium testnet.
   RPC URL: http://localhost:8545/
   Chain ID: 12345
   Symbol: MO
-  Block Explorer: http://localhost:4000
+  Block Explorer: http://localhost:4001
 * ...profit?
 
 ## Connecting to Public Testnet
