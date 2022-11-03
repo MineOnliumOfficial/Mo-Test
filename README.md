@@ -9,7 +9,7 @@ Deploy the MineOnlium testnet.
 * `docker compose up` 
 * Create a new Metamask Network:
   Name: Mo-Test
-  RPC URL: http://localhost:8545/
+  RPC URL: http://localhost:6666/
   Chain ID: 12345
   Symbol: MO
   Block Explorer: http://localhost:4001
